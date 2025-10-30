@@ -6,16 +6,16 @@ layout: none
 
 # Privacy Policy
 
-Effective date: [Month DD, YYYY]
+Effective date: October 30, 2025
 
-This Privacy Policy explains how [Company Name] (“we”, “us”, “our”) collects, uses, and shares information when you use the FOODMap scanner mobile application (“App”). By using the App, you agree to this Policy.
+This Privacy Policy explains how Haukaas AS (“we”, “us”, “our”) collects, uses, and shares information when you use the FOODMap scanner mobile application (“App”). By using the App, you agree to this Policy.
 
 ## What we do in the App
 - Scan barcodes to fetch public product data from Open Food Facts.
 - Optionally analyze photos of food or labels for potential FODMAP risk using an AI service.
 - Sign in with Apple or Google (via Clerk) to access the main app.
 - Offer in‑app subscriptions (via RevenueCat).
-- Run lightweight product analytics (via PostHog, EU host if configured).
+- Run lightweight product analytics (via PostHog, EU host).
 - Store onboarding progress locally on your device.
 
 ## Data we collect
@@ -56,7 +56,7 @@ Content sent to OpenAI is used to generate results. Per provider policy, limited
 - Camera/photos permission can be denied (some features will not work).
 - Account deletion: Settings → Delete Account (removes your Clerk account). Some records may persist where legally required or in provider logs.
 - Manage subscription: iOS Settings → Apple ID → Subscriptions or in‑app link.
-- Contact us for privacy rights (access, correction, deletion): [privacy@yourdomain.com].
+- Contact us for privacy rights (access, correction, deletion): [danielhaukaas@gmail.com].
 
 ## Security
 We use industry‑standard measures (HTTPS, scoped tokens). No system is 100% secure.
@@ -71,9 +71,9 @@ Linked sites have their own privacy practices.
 We may update this Policy; the new “Effective date” will be posted.
 
 ## Contact
-[Company Name]  
-[Address, City, Country]  
-Email: [privacy@yourdomain.com]
+Haukaas AS  
+Middelthuns gate 17D 0368, OSLO, OSLO Norway 
+Email: [danielhaukaas@gmail.com]
 
 ## Terms of Use
 iOS license uses Apple’s Standard EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/

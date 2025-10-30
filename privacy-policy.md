@@ -8,7 +8,7 @@ layout: none
 
 Effective date: October 30, 2025
 
-This Privacy Policy explains how Haukaas AS (“we”, “us”, “our”) collects, uses, and shares information when you use the FOODMap scanner mobile application (“App”). By using the App, you agree to this Policy.
+This Privacy Policy explains how Haukaas AS (“we”, “us”, “our”) collects, uses, and shares information when you use the FODMap scanner mobile application (“App”). By using the App, you agree to this Policy.
 
 ## What we do in the App
 - Scan barcodes to fetch public product data from Open Food Facts.
